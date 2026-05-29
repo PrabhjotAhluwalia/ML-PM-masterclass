@@ -12,6 +12,7 @@ The manuscripts are written for senior AI product managers who need both technic
 
 - `volume-1-foundational-mathematics-primer.pdf` — the foundational mathematics primer for advanced AI, ML, and LLMs, with fintech worked examples, PM relevance boxes, NumPy snippets, and appendices.
 - `volume-2-ai-ml-dl-llms-pm-masterclass-expanded.pdf` — the expanded AI, ML, deep learning, and LLM manuscript, with a clickable table of contents, worked examples, PM relevance boxes, runnable Python snippets, and appendices.
+- `index.html` — GitHub Pages landing page for opening the PDF volumes.
 
 ## Intended use
 
